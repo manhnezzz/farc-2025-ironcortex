@@ -12,10 +12,10 @@
 
   | Họ tên     | Vai trò                           |
   | ---------- | --------------------------------- |
-  | \[Tên bạn] | Đội trưởng, lập trình điều khiển  |
-  | \[Tên 2]   | Phụ trách cơ khí, thiết kế CAD    |
-  | \[Tên 3]   | Human Player, vận hành            |
-  | \[Tên 4]   | Phụ trách điện tử, hệ thống nguồn |
+  | \[Nguyễn Khải Huyền] | Đội trưởng|
+  | \[Ngô Xuân Hải]   | Phụ trách cơ khí  |
+  | \[Nguyễn Ngọc Hoàng Xuân Hòa]   | Human Player, vận hành|
+  | \[Lê Duy Mạnh, Lương Hiếu Ngân]   | Lập trình |
 
 ---
 
